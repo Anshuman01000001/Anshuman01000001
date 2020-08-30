@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Only throught my email for now
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... My first programing language was C++ at the age 12
+<---
