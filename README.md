@@ -1,4 +1,4 @@
-### Hello There 👋
+<h1 align="center"> Hi there 👋 </h1>
 
 - 🔭 I’m currently working on ... my personal website
 - 🌱 I’m currently learning ... Js, HTML and CSS
