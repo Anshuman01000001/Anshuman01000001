@@ -19,6 +19,10 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: Top Languages</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman01000001&show_icons=true&hide_border=true)](https://github.com/Anshuman01000001/github-readme-stats)
+</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
