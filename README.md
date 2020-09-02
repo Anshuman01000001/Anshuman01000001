@@ -21,10 +21,10 @@
 ---
 <details>
   <summary>:zap: Top Languages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman01000001&show_icons=true&hide_border=true)](https://github.com/Anshuman01000001/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-virid-one.vercel.app/api/top-langs/?username=Anshuman01000001)](https://github.com/Anshuman01000001/github-readme-stats)
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-virid-one.vercel.app/api?username=Anshuman01000001&show_icons=true&hide_border=true_&hide=stars" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-virid-one.vercel.app/api       username=Anshuman01000001&show_icons=true&hide_border=true_&hide=stars" />
 </details>
