@@ -19,11 +19,5 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: </summary>
-</details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-virid-one.vercel.app/api       username=Anshuman01000001&show_icons=true&hide_border=true_&hide=stars" />
-</details>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
