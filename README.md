@@ -20,8 +20,7 @@
 
 ---
 <details>
-  <summary>:zap: Top Languages</summary>
-  [![Top Langs](https://github-readme-stats-virid-one.vercel.app/api/top-langs/?username=Anshuman01000001)](https://github.com/Anshuman01000001/github-readme-stats)
+  <summary>:zap: </summary>
 </details>
 
 <details>
