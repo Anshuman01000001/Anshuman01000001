@@ -26,8 +26,7 @@
 </details>
 
 <br />
-
-![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" height="300" />
 <h6 align="left">
 If you are well acquainted with this game I understand your pain. 😔
 </h6>
