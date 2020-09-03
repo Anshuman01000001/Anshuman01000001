@@ -26,10 +26,10 @@
 
 <br />
 
-<details>
+<details align="center">
   <summary>📈 My GitHub Stats</summary>
 <img align="center" alt="Anshuman Aggarwal's Github Stats" src="https://github-readme-stats-virid-one.vercel.app/api?username=Anshuman01000001&show_icons=true&hide_border=true" />
-</details>
+</details align="center">
 
 <h6 align="center">
 <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" height="200" />
