@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything! 🤣
 - ⚡ Fun fact: I LOVE cooking, biking and listening to music!
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <br />
 
