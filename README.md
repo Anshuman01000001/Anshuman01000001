@@ -37,6 +37,6 @@
 
 <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" height="200" />
 
-<h6 align="right">
+<h6 align="left">
 If you're well acquainted with this game I understand your pain. 😔
 </h6>
