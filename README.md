@@ -2,6 +2,9 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" />
 
+<br />
+<br />
+
   - 🔭 I’m currently working on my personal website!<br />
   - 🌱 I’m currently learning everything! 🤣<br />
   - ⚡ Fun fact: I LOVE cooking, biking and listening to music!<br />
