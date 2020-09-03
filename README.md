@@ -4,7 +4,6 @@
 
 <br />
 <br />
-<br />
 
   - 🔭 I’m currently working on my personal website!<br />
   - 🌱 I’m currently learning everything! 🤣<br />
