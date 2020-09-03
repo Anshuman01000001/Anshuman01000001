@@ -28,9 +28,7 @@
 
 <details>
   <summary>📈 My GitHub Stats</summary>
-  <h6 align="center">
-<img align="left" alt="Anshuman Aggarwal's Github Stats" src="https://github-readme-stats-virid-one.vercel.app/api?username=Anshuman01000001&show_icons=true&hide_border=true" />
-  </h6>
+<img align="center" alt="Anshuman Aggarwal's Github Stats" src="https://github-readme-stats-virid-one.vercel.app/api?username=Anshuman01000001&show_icons=true&hide_border=true" />
 </details>
 
 <h6 align="center">
