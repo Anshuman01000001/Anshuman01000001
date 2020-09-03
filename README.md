@@ -34,6 +34,6 @@
 
 <br />
 
-<img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" height="200" />
+<img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="800" height="400" />
 
 If you're well acquainted with this dino game I understand your pain. 😔
