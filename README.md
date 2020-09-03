@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything! 🤣
 - ⚡ Fun fact: I LOVE cooking, biking and listening to music!
 
-![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br />
 
