@@ -4,7 +4,6 @@
 
 <br />
 <br />
-<br />
 
   - 🔭 I’m currently working on my personal website!<br />
   - 🌱 I’m currently learning everything! 🤣<br />
@@ -37,4 +36,4 @@
 <br />
 <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" height="200" />
 
-If you're well acquainted with this game I understand your pain. 😔
+<align="left">If you're well acquainted with this game I understand your pain. 😔
