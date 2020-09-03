@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I LOVE cooking, biking and listening to music!
 
 <br />
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="400" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" />
 <br />
 
 ### Languages and Tools:
