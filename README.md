@@ -24,3 +24,7 @@
 <summary>📈 My GitHub Stats</summary>
 <img align="left" alt="Anshuman Aggarwal's Github Stats" src="https://github-readme-stats-virid-one.vercel.app/api?username=Anshuman01000001&show_icons=true&hide_border=true" />
 </details>
+
+<br />
+![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+If you are well acquainted with this game I understand your pain. :sad:
