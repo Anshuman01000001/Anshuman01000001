@@ -32,6 +32,8 @@
 <img align="left" alt="Anshuman Aggarwal's Github Stats" src="https://github-readme-stats-virid-one.vercel.app/api?username=Anshuman01000001&show_icons=true&hide_border=true" />
 </details>
 
+<h6 align="center">
 <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" height="200" />
 
 If you're well acquainted with this dino game I understand your pain. 😔
+</h6>
