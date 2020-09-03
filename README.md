@@ -1,9 +1,9 @@
 <h3 align="left">
   Hi there, I'm Anshuman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
-  - 🔭 I’m currently working on my personal website!
-  - 🌱 I’m currently learning everything! 🤣
-  - ⚡ Fun fact: I LOVE cooking, biking and listening to music!
+  - 🔭 I’m currently working on my personal website!<br />
+  - 🌱 I’m currently learning everything! 🤣<br />
+  - ⚡ Fun fact: I LOVE cooking, biking and listening to music!<br />
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" />
 
