@@ -1,5 +1,5 @@
 ## Hi there, I'm Anshuman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" />
 
   - 🔭 I’m currently working on my personal website!<br />
