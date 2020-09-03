@@ -28,6 +28,6 @@
 <br />
 
 ![image](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<h5 align="left">
+<h6 align="left">
 If you are well acquainted with this game I understand your pain. 😔
-</h5>
+</h6>
