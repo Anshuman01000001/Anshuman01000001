@@ -3,7 +3,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="230" />
 
 <br />
-<br />
 
   - 🔭 I’m currently working on my personal website!<br />
   - 🌱 I’m currently learning everything! 🤣<br />
