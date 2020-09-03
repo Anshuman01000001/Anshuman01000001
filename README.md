@@ -26,6 +26,6 @@
 </details>
 
 <br />
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" height="200" />
+<img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" height="200" />
 
 If you are well acquainted with this game I understand your pain. 😔
