@@ -27,4 +27,4 @@
 
 <br />
 ![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-If you are well acquainted with this game I understand your pain. :sad:
+If you are well acquainted with this game I understand your pain. 😔
