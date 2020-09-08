@@ -23,8 +23,6 @@
 
 ---
 
-<br />
-
 <h6 align="center">
 <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" height="200" />
 
