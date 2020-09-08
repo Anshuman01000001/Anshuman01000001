@@ -26,5 +26,5 @@
 <h6 align="center">
 <img alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" height="200" />
 
-If you're well acquainted with this dino game I feel your pain. 😔
+If you're well acquainted with Google's dino game I feel your pain. 😔
 </h6>
