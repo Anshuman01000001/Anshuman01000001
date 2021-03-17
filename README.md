@@ -6,7 +6,7 @@
 
   - 🔭 I’m currently working on my personal website and more!<br />
   - 🌱 I’m currently learning everything! 🤣<br />
-  - ⚡ Fun fact: I LOVE cooking, biking and listening to music!<br />
+  - ⚡ Fun fact: I LOVE cooking, biking, listening to music, playing video games and programing!<br />
 
 ### Languages and Tools:
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
