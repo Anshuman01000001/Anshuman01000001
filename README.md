@@ -4,7 +4,7 @@
 
 <br />
 
-  - 🔭 I’m currently working on my personal website and more!<br />
+  - 🔭 I’m currently working on my school tech clubs<br />
   - 🌱 I’m currently learning everything! 🤣<br />
   - ⚡ Fun fact: I LOVE cooking, biking, listening to music, playing video games and programing!<br />
 
