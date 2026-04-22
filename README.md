@@ -36,10 +36,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [auction-platform]([https://github.com/Anshuman01000001](https://github.com/Anshuman01000001/example_internal_auction_site)) | Client-driven live auction system with real-time WebSocket bidding, OTP auth, JWT sessions, and admin dashboard | FastAPI, React, MongoDB, Docker |
-| [agentic-monitor]([https://github.com/Anshuman01000001/agentic-monitor](https://github.com/Anshuman01000001/agentic-monitor)) | Agentic AI system for edge device monitoring with automated anomaly alerting | Python, SLMs, Google Cloud |
+| [auction-platform](https://github.com/Anshuman01000001/example_internal_auction_site) | Client-driven live auction system with real-time WebSocket bidding, OTP auth, JWT sessions, and admin dashboard | FastAPI, React, MongoDB, Docker |
+| [agentic-monitor](https://github.com/Anshuman01000001/agentic-monitor) | Agentic AI system for edge device monitoring with automated anomaly alerting | Python, SLMs, Google Cloud |
 | [react-webapp](https://github.com/Anshuman01000001/react-webapp) | Full-stack web app with JWT authentication and role-based access control | React, Node.js, JWT |
-| [library-managment-system](https://github.com/Anshuman01000001/library-managment-system) | Relational database-backed library system with FastAPI backend | Python, FastAPI, SQL |
+| [library-managment-system](https://github.com/Anshuman01000001/library-management-system) | Relational database-backed library system with FastAPI backend | Python, FastAPI, SQL |
 
 ---
 
